@@ -13,6 +13,6 @@ With [nikola](http://getnikola.com) (v7.0+) installed:
 themes
 ======
 To install other themes use:
-- 'nikola theme -i %theme_name%'
+- `nikola theme -i %theme_name%'`
 
 %theme_name% can be found at https://themes.getnikola.com/
