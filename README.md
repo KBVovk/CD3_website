@@ -16,3 +16,5 @@ To install other themes use:
 - `nikola theme -i %theme_name%'`
 
 %theme_name% can be found at https://themes.getnikola.com/
+
+Now site uses defaut theme "bootblog4"
