@@ -15,44 +15,74 @@ CD3 scientists, or that have heavy involvement from CD3:
 `HSC`_
 -------
 
-HSC
 Hyper Suprime-Cam (HSC) is a prime focus camera at the 8.2m Subaru Telescope. Anyone who is working at an institute in Japan has the right of full data access (access to the proprietary data/data products). To join the HSC collaboration, please visit the page "information for new members" in the `HSC wiki`_.
 
-Please carefully read through the "collaboration policy". Main communication channels are the wikipage and mailing lists (you can find which mailing list is available in the wikipage), and slack for the HSC Weak Lensing WG. If you agree with the policy, you are now a member of HSC (please join)!
+Please carefully read through the `"collaboration policy"`_. Main communication channels are the wikipage and mailing lists (you can find which mailing list is available in the wikipage), and slack for the HSC Weak Lensing WG. If you agree with the policy, you are now a member of HSC (please join)!
 
 The following are key papers of the HSC-SSP survey (SSP=Subaru Strategic Program).
 
-Survey overview: Aihara et al. 2018
-Data analysis pipeline: Bosch et al. 2018
-Weak lensing shape catalog (Year-1 and Year 3 data): Mandelbaum et al. 2018, Li et al. 2022
+| Survey overview: `Aihara et al. 2018`_ 
+| Data analysis pipeline: `Bosch et al. 2018`_
+
+.. _`HSC`: https://hsc-release.mtk.nao.ac.jp/doc/
+.. _`HSC wiki`: https://hscsurvey.pbworks.com/w/page/19661930/FrontPage
+.. _`"collaboration policy"`: https://hscsurvey.pbworks.com/w/page/45370732/Survey%20Policies
+.. _`Aihara et al. 2018`: https://ui.adsabs.harvard.edu/abs/2018PASJ...70S...4A/abstract
+.. _`Bosch et al. 2018`: https://ui.adsabs.harvard.edu/abs/2018PASJ...70S...5B/abstract
 
 ====
 
-PFS
-Prime Focus Spectrograph (PFS) is a massively-multiplexed fiber-fed optical and near-infrared 3-arm spectrograph (N_fiber=2400, 380<lambda<1260nm, 1.3 degree diameter FoV) at the Subaru Telescope. We envision we will start our survey from around 2024. Anyone who is working at an institute in Japan has the right of full data access for PFS. If you want to join the PFS collaboration, please make registration via here, in the PFS website. Main communication channels are the wikipage and mailing lists.
+.. image:: /images/research/pfs_sumire_logo.png
+   :height: 40px
+   :align: left
 
-The PFS wiki page: https://sumire.pbworks.com/w/page/28175340/Subaru%20Measurement%20of%20Images%20and%20Redshifts%20%28SuMIRe%29
-The PFS Exposure Time Calculator is also available from the wikipage
-The early-year version of the planned PFS SSP survey: Takada et al. 2014
-Please ask Masahiro if you want to read the current version of the PFS-SSP proposal.
+`PFS`_
+-------
+
+Prime Focus Spectrograph (PFS) is a massively-multiplexed fiber-fed optical and near-infrared 3-arm spectrograph (N_fiber=2400, 380<lambda<1260nm, 1.3 degree diameter FoV) at the Subaru Telescope. We envision we will start our survey from around 2024. 
+
+Anyone who is working at an institute in Japan has the right of full data access for PFS. If you want to join the PFS collaboration, please make registration via `here`_, in the `PFS website`_. 
+
+Main communication channels are the `wikipage`_ and mailing lists.
+
+
+.. _`PFS`: https://pfs.ipmu.jp/intro.html
+.. _`here`: https://pfs.ipmu.jp/research/regist_collab.html
+.. _`PFS website`: https://pfs.ipmu.jp/intro.html
+.. _`wikipage`: https://sumire.pbworks.com/w/page/28175340/Subaru%20Measurement%20of%20Images%20and%20Redshifts%20%28SuMIRe%29
+
 
 ====
 
-LSST
-For the first ten years of operation, Vera C. Rubin Observatory will perform the Rubin Observatory Legacy Survey of Space and Time (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward meeting the LSST science goals is being carried out by the Rubin Observatory LSST Dark Energy Science Collaboration (DESC). Key working groups are Weak gravitational lensing, Large-scale structure, Type Ia Supernovae, Galaxy clusters, and Strong gravitational lensing.
+.. image:: /images/research/lsst_logo.png
+   :height: 40px
+   :align: left
 
-LSST Dark Energy Science Collaboration: https://lsstdesc.org/
-LSST: https://www.lsst.org/
+`LSST`_
+-------
+For the first ten years of operation, Vera C. Rubin Observatory will perform the Rubin Observatory Legacy Survey of Space and Time (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward meeting the LSST science goals is being carried out by the Rubin Observatory LSST `Dark Energy Science Collaboration`_ (DESC). Key working groups are Weak gravitational lensing, Large-scale structure, Type Ia Supernovae, Galaxy clusters, and Strong gravitational lensing.
+
 If you are interested in working on LSST, please contact: Jia Liu, Masahiro Takada, Naoki Yasuda
 
+.. _`LSST`: https://www.lsst.org/
+.. _`Dark Energy Science Collaboration`: https://lsstdesc.org/
+
 ====
 
-Euclid
+.. image:: /images/research/euclid-logo.png
+   :height: 40px
+   :align: left
+
+`Euclid`_
+---------
+
 Euclid is a visible to near-infrared space telescope currently under development by the European Space Agency (ESA) and the Euclid Consortium. The objective of the Euclid mission is to better understand dark energy and dark matter by accurately measuring the acceleration of the universe. Euclid is a medium-class ("M-class") mission and is part of the Cosmic Vision campaign of ESA's Science Programme. This class of missions have an ESA budget cap at around €500 million. Prior to the Russian invasion of Ukraine, the launch was scheduled on a Soyuz ST 2-1b in 2023, but Euclid will instead be launched on an Ariane 62.
 
-https://www.euclid-ec.org/
-https://sci.esa.int/web/euclid/
 If you are interested in working on Euclid, please contact: John Silverman, Masahiro Takada, Naoki Yasuda
+
+.. _`Euclid`: https://www.euclid-ec.org/
+
+
 
 ====
 
@@ -88,44 +118,3 @@ CMB-S4 is the next-generation ground-based cosmic microwave background experimen
 
 https://cmb-s4.org/
 Japan is currently under negotiation to join CMB-S4. Please reach out to the CMB group if you are interested.
-
-====
-
-.. image:: /images/research/sdss3_logo.png
-   :height: 40px
-   :align: left
-
-`BOSS`_
--------
-
-The Baryon Oscillation Spectroscopic Survey (BOSS) is a recently
-completed 5-year survey designed to make the best-ever measurement of
-the Baryon Acoustic Oscillations (BAO) signal.  The survey has
-obtained spectra of approximately 1.5 million galaxies at z < 0.7 and
-160,000 quasars at much higher redshifts.
-
-====
-
-.. image:: /images/research/polarbear_logo.png
-   :height: 40px
-   :align: left
-
-`LIGHTBIRD`_
-------------
-
-cosmology
-
-====
-
-..etc....
-
-.. _`HSC`: https://hsc-release.mtk.nao.ac.jp/doc/
-.. _`HSC wiki`: https://hscsurvey.pbworks.com/w/page/19661930/FrontPage
-
-.. _`POLARBEAR`: http://bolo.berkeley.edu/polarbear/
-.. _`DES`: http://www.darkenergysurvey.org
-.. _`Computional Cosmology Center`: https://c3.lbl.gov/
-.. _`Supernova Cosmology Project`: http://supernova.lbl.gov/
-.. _`Nearby Supernova Factory`: http://snfactory.lbl.gov/
-.. _`Dark Energy Spectroscopic Instrument`: http://desi.lbl.gov/
-.. _`WFIRST`: http://wfirst.gsfc.nasa.gov/
